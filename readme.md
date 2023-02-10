@@ -17,7 +17,6 @@ windows seleziono gli elementi e clicco il TAB
 [Guida](https://validator.w3.org/#validate_by_inputy)
 
 # corretta struttura per lista annidata:
-'''html
 <ol>
     <li>Numeri utili di emergenza:</li>
         <ul>
@@ -36,4 +35,3 @@ windows seleziono gli elementi e clicco il TAB
             <li><strong>Volo di Ritorno:</strong>-YI236X, ore 18.30 da London Heathrow</li>  
         </ul>
 </ol>
-'''
